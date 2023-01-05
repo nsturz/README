@@ -1,5 +1,3 @@
-# README
-
 ## About Me
 
 Hi! My name is Nick and I'm a full-stack software engineer from Southern California. I recently finished a full-immersion coding bootcamp at Learning Fuze, and am actively seeking employment opportunities for software engineering. I love building things from the ground up, thinking creatively, and solving the problems that come along. 
