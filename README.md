@@ -25,9 +25,8 @@ src="https://github.com/nsturz/nsturz/assets/94485412/70c01318-a119-4880-8668-a2
 
 
 ## Connect
-<a href="https://github.com/nsturz/README/files/10356315/software.engineering.resume.pdf">Resume</a>
+<a href="https://github.com/nsturz/nsturz/files/12164198/ns.resume.pdf">Resume</a>
 
 <a href="https://www.linkedin.com/in/nick-sturz/">LinkedIn</a>
-
 
 
