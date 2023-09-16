@@ -1,12 +1,12 @@
 ## About Me
 
-Hi! My name is Nick and I'm a Full-Stack Web Developer from Southern California. In January, I graduated from a full-immersion coding bootcamp called Learning Fuze, and am actively seeking employment opportunities for software engineering. Currently, I'm helping a small business in Sotuhern California build a productivity application that streamlines their workflows. Check it out <a href="production-sheet-demo.nicksturz.dev"> here </a>
+Hi! My name is Nick and I'm a Full-Stack Web Developer from Southern California. In January, I graduated from a full-immersion coding bootcamp called Learning Fuze, and am actively seeking employment opportunities for software engineering. Currently, I'm helping a small business in Sotuhern California build a productivity application that streamlines their workflows.
 
 I love building things from the ground up, thinking creatively, and solving the problems that come along. 
 
 Outside of coding, I'm an active musician 🥁 and a cat dad 🐈
 
-Currently, I'm working on <a href="tm-pro.nicksturz.dev/#instructions"> Tour Manager Pro </a>
+Currently, I'm working on <a href="https://tm-pro.nicksturz.dev/#instructions"> Tour Manager Pro </a>
 
 
 ## Technologies Used
