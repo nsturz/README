@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! My name is Nick and I'm a Full-Stack Web Developer from Southern California. In January, I graduated from a full-immersion coding bootcamp called Learning Fuze, and am actively seeking employment opportunities for software engineering. Currently, I'm helping a small business in Sotuhern California build a productivity application that streamlines their workflows. Check it out <a href="production-sheet-demo.nicksturz.dev"> here </a>.
+Hi! My name is Nick and I'm a Full-Stack Web Developer from Southern California. In January, I graduated from a full-immersion coding bootcamp called Learning Fuze, and am actively seeking employment opportunities for software engineering. Currently, I'm helping a small business in Sotuhern California build a productivity application that streamlines their workflows. Check it out <a href="production-sheet-demo.nicksturz.dev"> here </a>
 
 I love building things from the ground up, thinking creatively, and solving the problems that come along. 
 
