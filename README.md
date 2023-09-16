@@ -6,8 +6,6 @@ I love building things from the ground up, thinking creatively, and solving the 
 
 Outside of coding, I'm an active musician 🥁 and a cat dad 🐈
 
-Currently, I'm working on <a href="https://tm-pro.nicksturz.dev/#instructions"> Tour Manager Pro </a>
-
 
 ## Technologies Used
 
