@@ -2,7 +2,7 @@
 
 Hi! My name is Nick. I wear many hats, but in my current role I oversee all I.T. operations at ICAN California Abilities Network, having established an I.T. department that did not exist prior to my being hired at the company. 
 
-Prior to working at ICAN, I worked as a freelance web developer, where in addition to creating websites, I helped a small business build a productivity application that streamlines their workflows. Check it out <a href="https://production-sheet-demo.nicksturz.dev"> 
+Prior to working at ICAN, I worked as a freelance web developer, where in addition to creating websites, I helped a small business build a productivity application that streamlines their workflows. 
 
 In January 2022, I graduated from a full-immersion coding bootcamp called Learning Fuze, and am actively seeking employment opportunities for software engineering. Currently. Prior to that, I worked at Apple as a technical specialist, having supported thousands of customers with a myriad of issues resolved.
 
